@@ -1,0 +1,7 @@
+# Ignore temporary files created by Webstorm
+.idea/
+
+# Ignore any of these just in case they show up
+build/
+out/
+bin/
